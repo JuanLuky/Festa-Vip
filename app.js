@@ -3,7 +3,7 @@ function Verificar() {
     const cliente = document.querySelector('.nomecliente').value;
     const convidado = document.querySelector('.name').value;
     const nomeConvidado = convidado.toUpperCase();
-    const meusConvidados = ['KUAN','LETICIA','FABIO','JUAN','LUKY','KAUAN'];
+    const meusConvidados = ['KAUAN','LETICIA','FABIO','JUAN','LUKY','SANTOS'];
     const permissao = document.querySelector('.permissao')
 
     permissao.innerHTML = "Verificando..."
