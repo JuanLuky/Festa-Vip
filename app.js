@@ -3,7 +3,7 @@ function Verificar() {
     const cliente = document.querySelector('.nomecliente').value;
     const convidado = document.querySelector('.name').value;
     const nomeConvidado = convidado.toUpperCase();
-    const meusConvidados = ['KAUAN','LETICIA','FABIO','JUAN','LUKY','SANTOS'];
+    const meusConvidados = ['KAUAN','CAIO','FABIO','JUAN','LUKY','SANTOS'];
     const permissao = document.querySelector('.permissao')
 
     permissao.innerHTML = "Verificando..."
@@ -19,7 +19,5 @@ function Verificar() {
             permissao.innerHTML = "Você não foi convidado"
         }
      }, 2000);
-    
-     console.log(nomeConvidado);
     
 }
