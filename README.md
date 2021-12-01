@@ -1,7 +1,7 @@
 # :tada: Festa-Vip :tada:
 ### Projeto de verificação em JavaScript
 
-Para que apareça que você foi convidado, precisará colocar o nome dessas pessoas aqui que o convidaram 
+Para que apareça que você foi convidado, precisará colocar o nome de uma dessas pessoas aqui que o convidaram 
 
 KAUAN, LETICIA, FABIO, JUAN, LUKY, SANTOS
 
